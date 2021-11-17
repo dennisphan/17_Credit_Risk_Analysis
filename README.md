@@ -11,7 +11,7 @@ The purpose of this analysis to find the best machine learning model to predict 
 
 ### 2. SMOTE Oversampling
 
-![SMOTE Oversampling result](Resources/SMOTE_Oversampling.png.png)
+![SMOTE Oversampling result](Resources/SMOTE_Oversampling.png)
 
 
 
